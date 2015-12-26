@@ -1,28 +1,21 @@
 {
   "name": "hubot-vine",
   "description": "A hubot that gets a random Vine based on tag",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Mateus <mateustavares_@hotmail.com>",
   "license": "MIT",
-
   "keywords": "hubot, hubot-scripts, hubot-vine, vine",
-
   "repository": {
     "type": "https",
     "url": "https://github.com/mateustav/hubot-vine.git"
   },
-
   "bugs": {
     "url": "https://github.com/mateustav/hubot-vine/issues"
   },
-
-  "dependencies": {
-  },
-
+  "dependencies": {},
   "peerDependencies": {
     "hubot": "2.x"
   },
-
   "devDependencies": {
     "chai": "^2.1.1",
     "coffee-script": "1.6.3",
@@ -37,9 +30,7 @@
     "sinon": "^1.13.0",
     "sinon-chai": "^2.7.0"
   },
-
   "main": "index.coffee",
-
   "scripts": {
     "test": "grunt test"
   }
