@@ -8,13 +8,13 @@ See [`src/hubot-vine.coffee`](src/hubot-vine.coffee) for full documentation.
 
 In hubot project repo, run:
 
-`npm install hubot-hubot-vine --save`
+`npm install hubot-vine --save`
 
 Then add **hubot-hubot-vine** to your `external-scripts.json`:
 
 ```json
 [
-  "hubot-hubot-vine"
+  "hubot-vine"
 ]
 ```
 
