@@ -25,4 +25,4 @@ user1>> hubot vine kittens
 hubot>> https://vine.co/v/iADuY1Lxxrm
 ```
 
-## Made with love from a [Vine](vine.co) lover to all Viner lovers :heart:
+## Made with love from a [Vine](http://vine.co) lover to all Viner lovers :heart:
