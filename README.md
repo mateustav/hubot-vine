@@ -1,4 +1,4 @@
-# hubot-hubot-vine
+# hubot-vine
 
 A hubot that gets a random Vine based on tag
 
@@ -24,3 +24,5 @@ Then add **hubot-hubot-vine** to your `external-scripts.json`:
 user1>> hubot vine kittens
 hubot>> https://vine.co/v/iADuY1Lxxrm
 ```
+
+## Made with love from a [Vine](vine.co) lover to all Viner lovers :heart:
