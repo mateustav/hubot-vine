@@ -2,7 +2,7 @@
   "name": "hubot-vine",
   "description": "A hubot that gets a random Vine based on tag",
   "version": "0.1.1",
-  "author": "Mateus <mateustavares_@hotmail.com>",
+  "author": "Mateus <>",
   "license": "MIT",
   "keywords": "hubot, hubot-scripts, hubot-vine, vine",
   "repository": {
